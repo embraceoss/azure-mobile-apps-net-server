@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TasksDescription>
+	<OwnerName>Joe</OwnerName>
+	<TaskGroup>
+		<BinDropPath>bin\Debug</BinDropPath>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Authentication.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.CrossDomain.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Entity.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Home.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Login.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Notifications.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Quickstart.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Storage.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Tables.Test.dll</Command> </Task>
+		<Task> <Command>Microsoft.Azure.Mobile.Server.Test.dll</Command> </Task>
+	</TaskGroup>
+</TasksDescription>
