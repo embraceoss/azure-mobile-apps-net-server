@@ -10,8 +10,8 @@
 		<Task> <Command>Microsoft.Azure.Mobile.Server.Login.Test.dll</Command> </Task>
 		<Task> <Command>Microsoft.Azure.Mobile.Server.Notifications.Test.dll</Command> </Task>
 		<Task> <Command>Microsoft.Azure.Mobile.Server.Quickstart.Test.dll</Command> </Task>
-		<Task> <Command>Microsoft.Azure.Mobile.Server.Storage.Test.dll</Command> </Task>
-		<Task> <Command>Microsoft.Azure.Mobile.Server.Tables.Test.dll</Command> </Task>
+<!--		<Task> <Command>Microsoft.Azure.Mobile.Server.Storage.Test.dll</Command> </Task> -->
+<!--		<Task> <Command>Microsoft.Azure.Mobile.Server.Tables.Test.dll</Command> </Task> -->
 		<Task> <Command>Microsoft.Azure.Mobile.Server.Test.dll</Command> </Task>
 	</TaskGroup>
 </TasksDescription>
